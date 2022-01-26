@@ -3,13 +3,14 @@ Artificial Intelligence, Extended Reality and Consumer Based Personalization of 
 
 Human Brain Video
 Shows the 11 Memory Centers of the Brain which govern how we think about consumer centered intelligent design.
+Assistive superintelligence works by using the frame of these memory centers in your brian and assists you in providing content to hack and improve the encoding and decoding of our learning and sensory experience.
 https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4
 
 Personalization Video
 Shows how AI and Personalization fit together and describes the 8 dimensions where personalization uses creativity and affects technology, benefit and value based care.
 https://optum.video.uhc.com/media/AI%20Personalization%20Design%20for%20Health%20Care/1_n1ixfx1r
 
-Nightcafe uses machine learning VQGAN and CLIP models and multi network strategy to create a personalized site where images and video can be created using written content.
+Nightcafe uses machine learning VQGAN and CLIP models and multi network strategy to create a personalized site where output of images and video can be created using input of short sentences with written content.
 Impact is that you can generate the artwork and even styles you want by describing them with text.
 https://creator.nightcafe.studio/my-creations
 
