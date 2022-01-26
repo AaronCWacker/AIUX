@@ -70,33 +70,44 @@ https://learn.adafruit.com/generating-ai-art-with-vqgan-clip
 # Rhyme - Use of written rhymes
 https://www.rhymezone.com/r/rhyme.cgi?Word=me&typeofrhyme=exa&org1=syl&org2=l&org3=y
 
+# AI Based UI Development
 https://medium.com/@vijay.betigiri/ai-based-ui-development-ai-ui-100deb28f54d
 
-
+# Design For AI Enabled UI
 https://blog.prototypr.io/how-to-design-for-ai-enabled-ui-77e144e99126
 
+# PifuHD 2D Image to 3D Model
 https://colab.research.google.com/drive/1L1Yx_eVmIWjPOmfEAPxi7oY0d8CNY16o
-
 https://github.com/AaronCWacker/pifuhd
 
+# YouTube Video
 https://www.youtube.com/watch?v=PraEcNDGSqY&t=2522s
 
+# Runway ML
 https://app.runwayml.com/video-tools/projects
 
+# Every Pixel
 https://www.everypixel.com/
 
+# Artbreeder - StyleGAN2 and BigGan subscription based web app allowing you to create tunable feature images
 https://www.artbreeder.com/
 
-
+# Artstation - Community for Image, Video, and UI Designs for all media outlets
 https://www.artstation.com/aaroncwacker/following
 
+# Youtube video
 https://www.youtube.com/watch?v=SGUCcjHTmGY
 
+# NLP Synthesis Demonstration which allows machines to speak, listen, interpret, and recite from text to speech and speech to text
 http://xr.azurewebsites.net/nlp-synthesis/
 
+# Colab - runnable links
 https://stackoverflow.com/questions/47110346/make-a-runnable-link-to-colaboratory-notebook
 
+# Boomy - Instant AI Digital Music Design and Distribution
 https://lnk.dmsmusic.co/aaronwacker_wishmagical2021
+https://boomy.com/
+
 
 https://business.google.com/dashboard/l/02480082423524027888
 
