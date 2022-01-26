@@ -5,7 +5,6 @@ Human Brain Video
 Shows the 11 Memory Centers of the Brain which govern how we think about consumer centered intelligent design.
 Assistive superintelligence works by using the frame of these memory centers in your brian and assists you in providing content to hack and improve the encoding and decoding of our learning and sensory experience.
 https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4
-[![Memory Centers of the Human Brain](brain.png)](https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4)
 
 Personalization Video
 Shows how AI and Personalization fit together and describes the 8 dimensions where personalization uses creativity and affects technology, benefit and value based care.
