@@ -108,23 +108,26 @@ https://stackoverflow.com/questions/47110346/make-a-runnable-link-to-colaborator
 https://lnk.dmsmusic.co/aaronwacker_wishmagical2021
 https://boomy.com/
 
-
+# AI Platform Full Stack for Business - Google
 https://business.google.com/dashboard/l/02480082423524027888
 
+# AI Images and Video Management for Mass Consumer
 https://photos.google.com/
 
+# Community for Images and Video sharing and thematic alignment using tags
 https://www.instagram.com/?hl=en
 
+# Transcription End to End Solution using Meet, Extensions and Google Drive using Tactiq
 https://meet.google.com/ovn-pgbb-wkt
 tactiq
 
+# Community for Songs and Music - Soundcloud 
 https://soundcloud.com/aaron-wacker-941819269
 
+# AI Community HuggingFace
 https://huggingface.co/spaces
 
-
-
-
+# Better Tools
 https://www.youtube.com/watch?v=EybGGLbLipI&t=175s
 Hybrid work is evolving and in 2022 we will see better virtual tools 
 	Teams
@@ -163,6 +166,7 @@ Hybrid work is evolving and in 2022 we will see better virtual tools
 		Driven by purpose, mission, grit, and passion
 		Iterative change, series of small, measurable steps
 
+# Consumer Centric Health Care
 People First, Business Second
 Josh Bershin 2021 study for HR
 Talent, Intelligence, and Skills Taxonomy - Cornerstone of People Strategy
