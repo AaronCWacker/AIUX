@@ -1,11 +1,12 @@
 # AIUX
 Artificial Intelligence, Extended Reality and Consumer Based Personalization of Content and User Interface
 
-Human Brain Video Link:
-1-11 Memory Centers of the Brain
+Human Brain Video
+Shows the 11 Memory Centers of the Brain which govern how we think about consumer centered intelligent design.
 https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4
 
-Personalization - 
+Personalization Video
+Shows how AI and Personalization fit together and describes the 8 dimensions where personalization uses creativity and affects technology, benefit and value based care.
 https://optum.video.uhc.com/media/AI%20Personalization%20Design%20for%20Health%20Care/1_n1ixfx1r
 
 
