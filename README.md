@@ -3,6 +3,7 @@ Artificial Intelligence, Extended Reality and Consumer Based Personalization of 
 
 Human Brain Video Link:
 1-11 Memory Centers of the Brain
+https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4
 
 https://creator.nightcafe.studio/my-creations
 
