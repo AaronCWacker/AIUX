@@ -2,7 +2,7 @@
 
 # The Human Brain and your Memory Centers Video
 Shows the 11 Memory Centers of the Brain which govern how we think about consumer centered intelligent design.
-Assistive superintelligence works by using the frame of these memory centers in your brian and assists you in providing content to hack and improve the encoding and decoding of our learning and sensory experience.
+Assistive superintelligence works by using the frame of these memory centers in your brain to assists you in providing content to improve semantic and cognitive encoding and decoding of learning and sensory experience.
 https://optum.video.uhc.com/media/Memory%20Centers%20of%20the%20Human%20Brain/1_eqxrujj4
 
 # AI and Personalization Video
