@@ -9,8 +9,10 @@ Personalization Video
 Shows how AI and Personalization fit together and describes the 8 dimensions where personalization uses creativity and affects technology, benefit and value based care.
 https://optum.video.uhc.com/media/AI%20Personalization%20Design%20for%20Health%20Care/1_n1ixfx1r
 
-
+Nightcafe uses machine learning VQGAN and CLIP models and multi network strategy to create a personalized site where images and video can be created using written content.
+Impact is that you can generate the artwork and even styles you want by describing them with text.
 https://creator.nightcafe.studio/my-creations
+
 
 https://www.beautiful.ai/presentations#section-1-tab
 
