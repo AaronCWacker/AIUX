@@ -1,5 +1,10 @@
 # AIUX - Artificial Intelligence, Extended Reality and Consumer Based Personalization of Content and User Interface
 
+# Speech to Text and Text to Speech on Android and iOS
+https://github.com/j1mmyto9?tab=repositories
+https://www.youtube.com/watch?v=XRXbVtr1fog&t=15s
+
+
 # The Human Brain and your Memory Centers Video
 Shows the 11 Memory Centers of the Brain which govern how we think about consumer centered intelligent design.
 Assistive superintelligence works by using the frame of these memory centers in your brain to assists you in providing content to improve semantic and cognitive encoding and decoding of learning and sensory experience.
