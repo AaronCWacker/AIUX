@@ -1,8 +1,10 @@
 # AIUX - Artificial Intelligence, Extended Reality and Consumer Based Personalization of Content and User Interface
 
 # Speech to Text and Text to Speech on Android and iOS
-https://github.com/j1mmyto9?tab=repositories
-https://www.youtube.com/watch?v=XRXbVtr1fog&t=15s
+## Github https://github.com/j1mmyto9?tab=repositories
+## Video to Implement in Unity https://www.youtube.com/watch?v=XRXbVtr1fog&t=15s
+## Bluetooth LE for Multiplatform IO at 8-10 packets per second
+## https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661
 
 
 # The Human Brain and your Memory Centers Video
